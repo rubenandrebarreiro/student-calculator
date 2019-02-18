@@ -1,2 +1,1 @@
-# student-calculator
-👤 ➕ ➖ 
+# Student Calculator
