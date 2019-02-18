@@ -26,6 +26,7 @@
 
 [![current progress of this project](http://progressed.io/bar/5?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/student-calculator/)
 
+> A project it's based in a simple application to simulate a modern **_student calculator_** with _4 modes_: **_Standard_**, **_Scientific_**, **_Programmer_** and **_Date_**. This project was built using [**_Kotlin_**](https://kotlinlang.org/) for its development. The application allows to the user to _swap between this 4 modes of calculator_ and _perform their respectively operations_. The application also _keeps a history of all the operations performed and their respectively results_.
 
 ## Screenshots
 
@@ -36,6 +37,39 @@
 
 ![https://raw.githubusercontent.com/rubenandrebarreiro/student-calculator/master/imgs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/student-calculator/master/imgs/screenshot-2.jpg)
 ######  Student Calculator - Screenshot #2
+
+
+## Getting Started
+
+### Prerequisites
+To install and run this application, you will only need:
+> The [**_Git_**](https://git-scm.com/) feature and/or a [**_third-party Git Client based GUI_**](https://git-scm.com/downloads/guis/), like:
+* [**_GitHub Desktop_**](https://desktop.github.com/), [**_GitKraken_**](https://www.gitkraken.com/), [**_SourceTree_**](https://www.sourcetreeapp.com/) or [**_TortoiseGit_**](https://tortoisegit.org/).
+
+### Installation
+To install this application, you will need to _download_ or _clone_ this repository and run the application locally:
+
+> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/student-calculator/archive/master.zip) in download section of this repository.
+
+> Or instead, by cloning this repository by a [**_Git Client based GUI_**](https://git-scm.com/downloads/guis), using [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS) or [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol), by one of the following link:
+* [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
+```
+https://github.com/rubenandrebarreiro/student-calculator.git
+```
+* [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol):
+```
+git@github.com:rubenandrebarreiro/student-calculator.git
+```
+
+> Or even, by running one of the following commands in a **_Git Bash Console_**:
+* [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
+```
+git clone https://github.com/rubenandrebarreiro/student-calculator.git
+```
+* [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol):
+```
+git clone git@github.com:rubenandrebarreiro/student-calculator.git
+```
 
 
 ## Built with
