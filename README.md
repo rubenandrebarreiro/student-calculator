@@ -3,6 +3,8 @@
 ![https://raw.githubusercontent.com/rubenandrebarreiro/student-calculator/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/student-calculator/master/imgs/JPGs/banner-1.jpg)
 ######  Student Calculator - Banner #1
 
+***
+
 ## Current Status
 [![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/)
 [![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/student-calculator/)
