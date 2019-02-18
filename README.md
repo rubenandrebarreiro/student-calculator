@@ -1,5 +1,32 @@
 # Student Calculator
 
+[![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/)
+[![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/student-calculator/)
+
+[![status of this version no. 1](https://img.shields.io/badge/status-not&nbsp;completed-orange.svg)](https://github.com/rubenandrebarreiro/student-calculator/)
+[![status of this version no. 2](https://img.shields.io/badge/status-beta-orange.svg)](https://github.com/rubenandrebarreiro/student-calculator/)
+[![status of this version no. 3](https://img.shields.io/badge/status-not&nbsp;stable-orange.svg)](https://github.com/rubenandrebarreiro/student-calculator/)
+[![status of this version no. 4](https://img.shields.io/badge/status-not&nbsp;documented-orange.svg)](https://github.com/rubenandrebarreiro/student-calculator/)
+
+[![keyword of this version no. 1](https://img.shields.io/badge/keyword-software-brown.svg)](https://github.com/rubenandrebarreiro/student-calculator/)
+[![keyword of this version no. 2](https://img.shields.io/badge/keyword-application-brown.svg)](https://github.com/rubenandrebarreiro/student-calculator/)
+[![keyword of this version no. 3](https://img.shields.io/badge/keyword-tool-brown.svg)](https://github.com/rubenandrebarreiro/student-calculator/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-math-brown.svg)](https://github.com/rubenandrebarreiro/student-calculator/)
+
+[![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-kotlin-red.svg)](https://kotlinlang.org/) 
+[![software used no. 1](https://img.shields.io/badge/software-eclipse-gold.svg)](https://www.eclipse.org/) 
+[![software used no. 2](https://img.shields.io/badge/software-jetbrains&nbsp;intellij&nbsp;idea-gold.svg)](https://www.jetbrains.com/idea/) 
+
+[![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=2d-rotative-shapes-dance&style=flat)](https://github.com/rubenandrebarreiro/student-calculator/stargazers)
+[![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=2d-rotative-shapes-dance&style=flat)](https://github.com/rubenandrebarreiro/student-calculator/fork)
+[![downloads of this repository](https://img.shields.io/github/downloads/rubenandrebarreiro/2d-rotative-shapes-dance/total.svg)](https://github.com/rubenandrebarreiro/student-calculator/archive/master.zip)
+[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/rubenandrebarreiro/student-calculator/archive/master.zip)
+
+##### Current Progress of the Project
+
+[![current progress of this project](http://progressed.io/bar/5?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/student-calculator/)
+
+
 ## Screenshots
 
 ![https://raw.githubusercontent.com/rubenandrebarreiro/student-calculator/master/imgs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/student-calculator/master/imgs/screenshot-1.jpg)
