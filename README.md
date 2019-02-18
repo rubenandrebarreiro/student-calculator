@@ -26,7 +26,7 @@
 
 [![current progress of this project](http://progressed.io/bar/5?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/student-calculator/)
 
-> A project it's based in a simple application to simulate a modern **_student calculator_** with _4 modes_: **_Standard_**, **_Scientific_**, **_Programmer_** and **_Date_**. This project was built using [**_Kotlin_**](https://kotlinlang.org/) for its development. The application allows to the user to _swap between this 4 modes of calculator_ and _perform their respectively operations_. The application also _keeps a history of all the operations performed and their respectively results_.
+> A project based in a simple application to simulate a modern **_student calculator_** with _4 modes_: **_Standard_**, **_Scientific_**, **_Programmer_** and **_Date_**. This project was built using [**_Kotlin_**](https://kotlinlang.org/) for its development. The application allows to the user to _swap between this 4 modes of calculator_ and _perform their respectively operations_. The application also _keeps a history of all the operations performed and their respectively results_.
 
 ## Screenshots
 
