@@ -30,7 +30,7 @@
 
 ##### Current Progress of the Project
 
-[![current progress of this project](http://progressed.io/bar/5?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/student-calculator/)
+[![current progress of this project](http://progressed.io/bar/15?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/student-calculator/)
 
 
 ## Description
